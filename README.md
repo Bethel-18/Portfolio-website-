@@ -24,3 +24,24 @@ This is a simple and clean personal portfolio website created using **HTML5** an
 ---
 
 ## 📁 Project Structure
+
+```
+Portfolio-website/
+│
+├── index.html           # Main HTML file (entry point)
+├── about.html           # About Me page
+├── contact.html         # Contact page
+├── projects.html        # Projects showcase page
+│
+├── css/
+│   └── style.css        # Main stylesheet
+│
+├── images/
+│   └── (your image files here)
+│
+└── README.md            # Project documentation (this file)
+```
+
+## 🔗 Live Preview
+
+👉 [Click here to view the live site](https://bethel-18.github.io/Portfolio-website/)
